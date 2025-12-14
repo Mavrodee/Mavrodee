@@ -26,8 +26,10 @@
 ---
 
 ## 📊 GitHub статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oh_shit_god_damn&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oh_shit_god_damn&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mavrodee&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavrodee&layout=compact&theme=radical)
 
 ---
 
